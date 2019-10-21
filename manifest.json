@@ -1,6 +1,6 @@
 {
-  "name": "vue-realworld-example-app",
-  "short_name": "vue-realworld-example-app",
+  "name": "blog",
+  "short_name": "blog",
   "icons": [
     {
       "src": "/img/icons/android-chrome-192x192.png",
